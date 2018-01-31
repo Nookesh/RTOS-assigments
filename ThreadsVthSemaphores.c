@@ -155,3 +155,9 @@ void *Thread3Proc()
 7. As 3 threads entered in to while(1) loop, they will wait forever.But main calls "pthead_join()" for all theads indicating
    main funtion terminates only when all threads are terminated
 8. As 3 threads wait forever,implies main also waits forever, thereby program runs forever until we kill it */
+
+
+/*.......................................................Links and references..........................................................*/
+/*
+ 1. http://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-semaphores.txt
+ */
