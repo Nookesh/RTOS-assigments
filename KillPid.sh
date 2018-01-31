@@ -4,5 +4,5 @@ do
 	echo $LINE
         kill -9 $LINE
 done < "ProcessPID.txt"
-exec $fd<&-
+#exec $fd<&-
 echo "finished script"
