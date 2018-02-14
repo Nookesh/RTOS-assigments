@@ -17,7 +17,7 @@ int main()
     int msgid,len;
 
     /* Geting a unique key value */
-    if((key = ftok("Clint-MessQ.c", '1')) == -1)
+    if((key = ftok("Client-MessQ.c", '1')) == -1)
     {
          printf("\nFtoken Error");
          return 0;
