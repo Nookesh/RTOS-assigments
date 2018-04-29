@@ -1,0 +1,6 @@
+https://music.stackexchange.com/questions/24631/what-is-the-difference-between-mono-and-stereo
+https://www.cs.rutgers.edu/~pxk/417/notes/sockets/udp.html
+https://freedesktop.org/software/pulseaudio/doxygen/index.html#simple_sec
+https://en.wikipedia.org/wiki/Real-time_Transport_Protocol
+https://en.wikipedia.org/wiki/RTP_Control_Protocol
+
